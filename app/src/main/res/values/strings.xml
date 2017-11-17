@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kontek</string>
+    <string name="search_hint">Search Contact...</string>
+    <string name="name">Contact Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="add_contact">Add To Contact</string>
+</resources>
